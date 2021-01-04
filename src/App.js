@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import TransitionExample from "./Components/TransitionExample/TransitionExample";
+import TransitionGroupExample from "./Components/TransitionGroupExample/TransitionGroupExample";
+import ReactAnimationsExample from "./Components/ReactAnimationsExample/ReactAnimationsExample";
+import ReactReveal from "./Components/ReactReveal/ReactReveal";
+import ReactReavealTodo from "./Components/ReactReveal/ReactReavealTodo";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <TransitionExample/>
+     <TransitionGroupExample/>
+     <ReactAnimationsExample/>
+     <ReactReveal/>
+     <ReactReavealTodo/>
     </div>
   );
 }

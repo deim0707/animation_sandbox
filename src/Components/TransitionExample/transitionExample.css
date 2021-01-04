@@ -1,0 +1,12 @@
+.TransitionExampleWrapper {
+    width: 600px;
+    height: 500px;
+    background: blue;
+    color: yellow;
+    transition: background 2s, color 1s;
+}
+
+.TransitionExampleWrapper:hover {
+    background: yellow;
+    color: blue;
+}
