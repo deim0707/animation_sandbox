@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85a8a9d8-3831-41c8-bf0e-711555a9a58a" name="Default Changelist" comment="добавил сборку и спринг анимацю">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    <list default="true" id="85a8a9d8-3831-41c8-bf0e-711555a9a58a" name="Default Changelist" comment="some change">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609772407206</updated>
-      <workItem from="1609772410937" duration="10839000" />
+      <workItem from="1609772410937" duration="10957000" />
     </task>
     <task id="LOCAL-00001" summary="много анимаций">
       <created>1609785232866</created>
@@ -71,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609788547107</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="some change">
+      <created>1609788662136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609788662136</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some change">
+      <created>1609788679947</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609788679947</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="много анимаций" />
     <MESSAGE value="добавил сборку и спринг анимацю" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил сборку и спринг анимацю" />
+    <MESSAGE value="some change" />
+    <option name="LAST_COMMIT_MESSAGE" value="some change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
