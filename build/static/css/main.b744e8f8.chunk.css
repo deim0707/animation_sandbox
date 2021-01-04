@@ -1,2 +1,0 @@
-.TransitionExampleWrapper{width:300px;height:300px;background:#00f;color:#ff0;transition:background 2s,color 1s}.TransitionExampleWrapper:hover{background:#ff0;color:#00f}.remove-btn{margin-right:.5rem}.item-enter{opacity:0}.item-enter-active{opacity:1;transition:opacity .5s ease-in}.item-exit{opacity:1}.item-exit-active{opacity:0;transition:opacity .5s ease-in}
-/*# sourceMappingURL=main.b744e8f8.chunk.css.map */

@@ -8,12 +8,12 @@ import ReactSpring from "./Components/ReactSpring/ReactSpring";
 function App() {
   return (
     <div className="App">
-     {/*<TransitionExample/>*/}
-     {/*<TransitionGroupExample/>*/}
-     {/*<ReactAnimationsExample/>*/}
-     {/*<ReactReveal/>*/}
-     {/*<ReactReavealTodo/>*/}
+     <TransitionExample/>
      <ReactSpring/>
+     <ReactAnimationsExample/>
+     <ReactReveal/>
+     <ReactReavealTodo/>
+     <TransitionGroupExample/>
     </div>
   );
 }
